@@ -1,0 +1,27 @@
+.image-container{
+    width: 400px;
+    height: 400px;
+    margin-bottom: 50px;
+}
+
+.image-container img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.image-container h3{
+    margin-top: 0;
+    text-align: center;
+}
+
+.round{
+    border: 10px solid goldenrod;
+   
+}
+.naam{
+    color: black;
+    font-size: 30px;
+text-decoration: underline;
+}

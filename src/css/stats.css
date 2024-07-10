@@ -1,0 +1,24 @@
+/* css/stats.css */
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    border: 2px solid gold;
+    height:400px;
+    width:300px;
+    text-align: center;
+    margin-top: 20px;
+
+  }
+  
+  li {
+    margin-bottom: 8px;
+  }
+  
+  li strong {
+    font-weight: 300;
+  }
+  li value{
+    font-weight: 300;
+  }
+  
